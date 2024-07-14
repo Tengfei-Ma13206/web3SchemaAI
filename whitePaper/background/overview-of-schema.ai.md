@@ -4,7 +4,7 @@
 
 缺失了系统功能的角度（生产力部分），可以在确定了参与方角色之后，两部分的问题总量类似
 
-
+修改
 
 In the age of information, data acts as the lifeblood of technological innovation, particularly in the field of artificial intelligence (AI). The value of data, when leveraged effectively, is immense, but so are the concerns regarding privacy, security, and ownership. Our platform emerges as a beacon of change, aiming to rectify these concerns by marrying the principles of decentralization with the cutting-edge prospects of blockchain technology.
 
